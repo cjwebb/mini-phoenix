@@ -1,0 +1,2 @@
+defmodule MiniPhoenix do
+end
